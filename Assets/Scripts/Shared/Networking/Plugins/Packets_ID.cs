@@ -1,5 +1,4 @@
-﻿//игровые номера пакетов
-
+//packet ids
 public enum Packets_ID : byte
 { 
     NULL = 135,
