@@ -45,7 +45,7 @@ The source code has a demo scene in which there are 2 scripts showing the networ
 ```
 
 
-#### It is very important to use the sequence of writing to the stream, otherwise if the data is written sequentially, errors and exceptions will occur.
+#### It is very important to use the sequence of writing to the stream, otherwise, if the data is not written sequentially, errors and exceptions will occur.
 #### Suppose you have written a string to a stream and are trying to read a number from it
 
 
